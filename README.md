@@ -38,5 +38,4 @@ This is a practice project, but feel free to fork the repo, make changes, and su
 ## License
 This project is open source and available under the [MIT License](LICENSE).
 
-![Game Screenshot](gameplay_screenshot.PNG)
 <img src="gameplay_screenshot.PNG" alt="Game Screenshot" width="500"/>
