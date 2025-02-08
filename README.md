@@ -12,7 +12,7 @@ A simple Arkanoid (Breakout) clone built with Python and Pygame. This project is
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Jastreas/pygame_Arcanoid.git
+   git clone https://github.com/Jastreas/Python_Pygame_Arcanoid_Clone.git
    cd pygame_Arcanoid
    ```
 
